@@ -1,11 +1,10 @@
-MOLPay OpenCart Plugin v1.5.0
-==============================
-MOLPay Plugin for OpenCart Shopping Cart develop by MOLPay technical team.
+MOLPay Seamless Integration OpenCart Plugin v1.5.0
+===================================================
+MOLPay Seamless Integration Plugin for OpenCart Shopping Cart develop by MOLPay technical team.
 
 Supported version
 -----------------
-OpenCart version 1.5.x.x <br>
-OpenCart version 1.5.6.4(Tested)
+OpenCart version 1.5.6.4
 
 Notes
 -----
